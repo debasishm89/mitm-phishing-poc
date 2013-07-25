@@ -1,4 +1,6 @@
 #A very basic Custom Selenim Web Server written in Python for GMAIL passowrd recovery.
+# Original Article : http://www.debasish.in/2012/07/how-i-can-reset-your-gmail-password_28.html
+#
 #API:HTTP POST parameters:
 #Enter Email Address: action=email&data=email@email.com
 #Enter Captcha :  action=captcha&data=<code>
@@ -7,6 +9,8 @@
 #Ask for phone Number: action=sms&data=<phonenumber>
 #Ask fro Security Code action=pin&data=<verification-code>
 #Enter PIN action=pin&data=<pin>
+
+
 
 import SocketServer
 from socket import *
