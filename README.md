@@ -8,6 +8,12 @@ As cyber awareness is increasing day by day,number of failed phishing attempts i
 
 Here our main intention is to abuse the same password reset functionality of various email service providers in a smarter and automated manner.We will use selenium and its Python WebDriver api to automate this entire process.Selenium is a software testing framework for web applications. Selenium can automate browser locally or remotely. http://seleniumhq.org/.) We will write a custom selenium web server in python and a dynamic fake survey form in PHP. The fake survey form will communicate with selenium web server using its custom APIs in back end(using PHP curl or something similar thing).
 
-Read Full Article Here:
+Video Demo
+==========
+
+[![IMAGE ALT TEXT HERE](http://edudemic.com/wp-content/uploads/2013/01/youtube.png)](http://www.youtube.com/watch?v=lXNGeURi3hA)
+
+Read Full Article Here
+=======================
 
 http://www.debasish.in/2012/07/how-i-can-reset-your-gmail-password_28.html
